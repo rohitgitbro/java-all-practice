@@ -1,0 +1,16 @@
+
+package pack1;
+import pack2.Student;
+// import pack2.*;
+
+
+public class Example
+{
+	public static void main(String args[])
+	{ Student s1 = new Student(System.in);
+ 	  s1.setRollno(100);
+	  s1.setName("rohit");
+	  System.out.println(" roll no : "+s1.getRollNo();
+	  System.out.println(" name : "+s1.getName();
+	}
+}
