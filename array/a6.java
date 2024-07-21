@@ -19,7 +19,7 @@ public class a6{
 		a[i] = sc.nextInt();
 		}
 
-			 	System.out.println("array elements : ");
+		System.out.println("array elements : ");
 
 		for(int i=0; i<n; i++)
 		{
